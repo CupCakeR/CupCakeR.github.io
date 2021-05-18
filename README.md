@@ -1,5 +1,3 @@
-# CupCakeR
-
 github.com/CupCakeR
 
 ##### gmodstore.com/users/cupcaker
