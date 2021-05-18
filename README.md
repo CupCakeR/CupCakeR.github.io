@@ -8,7 +8,8 @@ github.com/CupCakeR
 - [Usepickup](https://www.gmodstore.com/market/view/usepickup-your-smart-all-in-one-weapon-addon)
 
 ##### A skill tree system kinda based on the one WoW uses (project for a client)
-- [Image](https://irlnoscope.pro/5pc9wm6rn9.png?key=0r7Ut3UYd0BiPl)
+- [Image](https://encrypting.host/5pc9wm6rn9.png?key=0r7Ut3UYd0BiPl)
+- [Video](https://encrypting.host/uTkq2QwTwu.mp4?key=FHzugu3BkGq62U)
 
 ##### Simple family sharing blocker (released)
 - [Github](https://www.github.com/CupCakeR/Family-Sharing-Buster)
