@@ -13,7 +13,7 @@ This is a small collection of my projects that might be worth to show. Unfortuna
 - [Video](https://youtu.be/ElP06AgeFl8)
 
 #### Hitman system (project for a client)
-- [Video](https://streamable.com/jw9w6)
+- [Video](https://encrypting.host/3ChafkuqvK.mp4?key=b7Bk3fjTyykspc)
 
 #### A skill tree system kinda based on the one WoW uses (project for a client)
 - [Image](https://encrypting.host/5pc9wm6rn9.png?key=0r7Ut3UYd0BiPl)
